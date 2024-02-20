@@ -1,0 +1,5 @@
+C:\SGVM3000 Projects\Bingio\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\SGVM3000 Projects\Bingio\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\SGVM3000 Projects\Bingio\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\SGVM3000 Projects\Bingio\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\SGVM3000 Projects\Bingio\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
