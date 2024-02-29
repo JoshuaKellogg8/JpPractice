@@ -43,6 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Application\Constants.cs" />
+    <Compile Include="Application\Helper.cs" />
     <Compile Include="Application\Kanji.cs" />
     <Compile Include="Application\Runner.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
